@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+![tonchan1216's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonchan1216&show_icons=true&theme=flag-india&hide=stars&show_icons=true&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonchan1216&hide=css,html,perl&langs_count=8&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **tonchan1216/tonchan1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
